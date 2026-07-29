@@ -135,7 +135,7 @@ Data Visualization
 
 The raw CSV file is loaded using Pandas:
 
-python
+Python
 
 
 df = pd.read_csv("../Dataset/Cleaned Superstore Data.csv", encoding="latin1")
